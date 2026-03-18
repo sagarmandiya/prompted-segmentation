@@ -1,0 +1,1733 @@
+[
+  {
+    "image_id": 95,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8224_JPG_jpg.rf.5e0a6aba5705493ed2d70aeade135ff8.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8224_JPG_jpg.rf.5e0a6aba5705493ed2d70aeade135ff8_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 15,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_85_resized_jpg.rf.f5958ece43375699b71ba621135a1afc.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_85_resized_jpg.rf.f5958ece43375699b71ba621135a1afc_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 30,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8289_JPG_jpg.rf.12833472f05282385de32554d42c4617.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8289_JPG_jpg.rf.12833472f05282385de32554d42c4617_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 159,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8255_JPG_jpg.rf.a9b490f509996a33fd3951316870db7b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8255_JPG_jpg.rf.a9b490f509996a33fd3951316870db7b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 186,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8217_JPG_jpg.rf.d7a0966c8e7aa4618d2d3f22d8d099c8.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8217_JPG_jpg.rf.d7a0966c8e7aa4618d2d3f22d8d099c8_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 115,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8254_JPG_jpg.rf.634146c3f1dc7f11148ca48c79e9c9de.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8254_JPG_jpg.rf.634146c3f1dc7f11148ca48c79e9c9de_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 69,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8224_JPG_jpg.rf.43c777b9b2617db3e94b97c724565eff.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8224_JPG_jpg.rf.43c777b9b2617db3e94b97c724565eff_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 172,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8307_JPG_jpg.rf.b7ec40d18e0fddf6cb53ddc389c9ac27.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8307_JPG_jpg.rf.b7ec40d18e0fddf6cb53ddc389c9ac27_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 161,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_111249-jpg_1500x2000_jpg.rf.b0897ca670524fe3a4c93def00378376.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_111249-jpg_1500x2000_jpg.rf.b0897ca670524fe3a4c93def00378376_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 3
+  },
+  {
+    "image_id": 45,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8203_JPG_jpg.rf.233d4061d1e3c947cd2fd77c81f22f08.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8203_JPG_jpg.rf.233d4061d1e3c947cd2fd77c81f22f08_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 66,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8203_JPG_jpg.rf.3d0de07268c617aaebe423060b29d242.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8203_JPG_jpg.rf.3d0de07268c617aaebe423060b29d242_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 150,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8227_JPG_jpg.rf.8c10fdc8675ba1e0e82213fba6efafd0.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8227_JPG_jpg.rf.8c10fdc8675ba1e0e82213fba6efafd0_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 166,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8202_JPG_jpg.rf.b3b3627a0c1ab9187c91ddd8f4c9d988.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8202_JPG_jpg.rf.b3b3627a0c1ab9187c91ddd8f4c9d988_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 78,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8207_JPG_jpg.rf.4728dbdd122a605e221adb3c9ccda695.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8207_JPG_jpg.rf.4728dbdd122a605e221adb3c9ccda695_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 195,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8228_JPG_jpg.rf.db9da748677d4300ee0e1a05750f84e6.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8228_JPG_jpg.rf.db9da748677d4300ee0e1a05750f84e6_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 200,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8238_JPG_jpg.rf.dc51d53f7842ac33d41276e7d30121c4.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8238_JPG_jpg.rf.dc51d53f7842ac33d41276e7d30121c4_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 56,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8220_JPG_jpg.rf.277665ac5073984ae11b1c76c61cf31b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8220_JPG_jpg.rf.277665ac5073984ae11b1c76c61cf31b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 153,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8276_JPG_jpg.rf.99abe0a1ce805388d66a0c85b6b1195d.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8276_JPG_jpg.rf.99abe0a1ce805388d66a0c85b6b1195d_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 82,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8213_JPG_jpg.rf.4266a29a9ae2637583d9d9c4c62cfaca.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8213_JPG_jpg.rf.4266a29a9ae2637583d9d9c4c62cfaca_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 68,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8226_JPG_jpg.rf.494c74faec5557f5e6e6d6160fb5df79.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8226_JPG_jpg.rf.494c74faec5557f5e6e6d6160fb5df79_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 125,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8206_JPG_jpg.rf.71a6e5ece9e2130f216837a83dedef17.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8206_JPG_jpg.rf.71a6e5ece9e2130f216837a83dedef17_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 16,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8264_JPG_jpg.rf.f08362b8289064f72e17c05e109ce6e6.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8264_JPG_jpg.rf.f08362b8289064f72e17c05e109ce6e6_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 184,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8253_JPG_jpg.rf.d59e57dc8b4ad151691c2a69f54d1dca.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8253_JPG_jpg.rf.d59e57dc8b4ad151691c2a69f54d1dca_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 93,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8313_JPG_jpg.rf.3d253377998430fced367e76ed4862ca.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8313_JPG_jpg.rf.3d253377998430fced367e76ed4862ca_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 65,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8234_JPG_jpg.rf.388e7c8008f2a52e4f64d7073d2d136f.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8234_JPG_jpg.rf.388e7c8008f2a52e4f64d7073d2d136f_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 60,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8228_JPG_jpg.rf.3468e6b86799e333392c4b4d49c6b94b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8228_JPG_jpg.rf.3468e6b86799e333392c4b4d49c6b94b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 84,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8212_JPG_jpg.rf.58032c51dc94338f72e5d14c8c37306b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8212_JPG_jpg.rf.58032c51dc94338f72e5d14c8c37306b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 67,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8245_JPG_jpg.rf.3d533d080c2c435e01ca2cf3a19693e4.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8245_JPG_jpg.rf.3d533d080c2c435e01ca2cf3a19693e4_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 126,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_73_resized_jpg.rf.70bdcf221556c0edb7cf77697522a432.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_73_resized_jpg.rf.70bdcf221556c0edb7cf77697522a432_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 140,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8241_JPG_jpg.rf.93c4b431582c083499ce696bd8d2e841.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8241_JPG_jpg.rf.93c4b431582c083499ce696bd8d2e841_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 9,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_49_resized_jpg.rf.ed20615e4b45a28ecde3bc767e2d29c4.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_49_resized_jpg.rf.ed20615e4b45a28ecde3bc767e2d29c4_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 18,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_110945-jpg_1500x2000_jpg.rf.f094f2b0565ecbe801e9164293cd5ba7.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_110945-jpg_1500x2000_jpg.rf.f094f2b0565ecbe801e9164293cd5ba7_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join",
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 4
+  },
+  {
+    "image_id": 55,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8226_JPG_jpg.rf.35140f93da7d6c286c12b381215527bb.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8226_JPG_jpg.rf.35140f93da7d6c286c12b381215527bb_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 75,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8236_JPG_jpg.rf.4e7844d2bcc88788d6896769522aa82b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8236_JPG_jpg.rf.4e7844d2bcc88788d6896769522aa82b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 164,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8313_JPG_jpg.rf.b342797d39bfaac0ddfa8bb2e2e7ef9f.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8313_JPG_jpg.rf.b342797d39bfaac0ddfa8bb2e2e7ef9f_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 104,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8203_JPG_jpg.rf.69438cc91476faa5ac0ba622b2897a86.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8203_JPG_jpg.rf.69438cc91476faa5ac0ba622b2897a86_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 136,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8204_JPG_jpg.rf.8659e6f5eebb7fc3ed39734caf586f17.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8204_JPG_jpg.rf.8659e6f5eebb7fc3ed39734caf586f17_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 138,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_111718-jpg_1500x2000_jpg.rf.95e0babe2116b5d710aefcd0be03a5fd.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_111718-jpg_1500x2000_jpg.rf.95e0babe2116b5d710aefcd0be03a5fd_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 165,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8308_JPG_jpg.rf.ada38a8a53a717be6795a02cb61ff747.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8308_JPG_jpg.rf.ada38a8a53a717be6795a02cb61ff747_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 76,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8217_JPG_jpg.rf.4e8693a504c9973cb6fd9f3d37a26955.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8217_JPG_jpg.rf.4e8693a504c9973cb6fd9f3d37a26955_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 79,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_76_resized_jpg.rf.52fdc9513d662a4ff431f119941bf44e.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_76_resized_jpg.rf.52fdc9513d662a4ff431f119941bf44e_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 199,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8209_JPG_jpg.rf.dbe519cfef16e467decfaa31c14124b0.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8209_JPG_jpg.rf.dbe519cfef16e467decfaa31c14124b0_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 38,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_15_resized_jpg.rf.22fc3512deed0691f3c2698aa76e7f0b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_15_resized_jpg.rf.22fc3512deed0691f3c2698aa76e7f0b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 24,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_73_resized_jpg.rf.0a52c94d74c60cf175007c4ea0d5c41f.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_73_resized_jpg.rf.0a52c94d74c60cf175007c4ea0d5c41f_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 122,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8228_JPG_jpg.rf.7eb9fbeb8570a4dcbe55162dcb32a615.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8228_JPG_jpg.rf.7eb9fbeb8570a4dcbe55162dcb32a615_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 197,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8226_JPG_jpg.rf.e0adb486909c70d29664b76c0cdd8398.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8226_JPG_jpg.rf.e0adb486909c70d29664b76c0cdd8398_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 29,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_73_resized_jpg.rf.0b36cedcf15b43e0980f5135b0df0877.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_73_resized_jpg.rf.0b36cedcf15b43e0980f5135b0df0877_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 19,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8306_JPG_jpg.rf.f5810c76b560809ae23ae821b85a3d5b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8306_JPG_jpg.rf.f5810c76b560809ae23ae821b85a3d5b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 144,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_85_resized_jpg.rf.9882f5910630df77f0a8f1ffe528c680.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_85_resized_jpg.rf.9882f5910630df77f0a8f1ffe528c680_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 86,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_46_resized_jpg.rf.547ed25bc25b7784e40b6b505f110e2a.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_46_resized_jpg.rf.547ed25bc25b7784e40b6b505f110e2a_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 114,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_47_resized_jpg.rf.6da8102e7e2759a39874a00a0b4df615.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_47_resized_jpg.rf.6da8102e7e2759a39874a00a0b4df615_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 175,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_24_resized_jpg.rf.a4265a9ccccc8e9fecaf7444aaad3b38.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_24_resized_jpg.rf.a4265a9ccccc8e9fecaf7444aaad3b38_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 5,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_111048-jpg_1500x2000_jpg.rf.f2541a7b02fc11d1f94d28c47ca91324.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_111048-jpg_1500x2000_jpg.rf.f2541a7b02fc11d1f94d28c47ca91324_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 127,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_67_resized_jpg.rf.72a0f158515daf031afe978519c7f046.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_67_resized_jpg.rf.72a0f158515daf031afe978519c7f046_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 117,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8228_JPG_jpg.rf.7dab85c4b58c71720cfc000ab7797797.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8228_JPG_jpg.rf.7dab85c4b58c71720cfc000ab7797797_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 73,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8202_JPG_jpg.rf.4c393bca03f7f57a2684956b2d04ef72.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8202_JPG_jpg.rf.4c393bca03f7f57a2684956b2d04ef72_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 141,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8221_JPG_jpg.rf.8c4056178fce0613cec7c9677b22295b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8221_JPG_jpg.rf.8c4056178fce0613cec7c9677b22295b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 98,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8217_JPG_jpg.rf.68bf5b2b52dc03b4f33dfaddb0f5ffe8.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8217_JPG_jpg.rf.68bf5b2b52dc03b4f33dfaddb0f5ffe8_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 174,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_5_resized_jpg.rf.b441f4df18213a3bbd39280b226d9026.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_5_resized_jpg.rf.b441f4df18213a3bbd39280b226d9026_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 96,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8221_JPG_jpg.rf.51033f2e677d49fd3a0aca045135573c.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8221_JPG_jpg.rf.51033f2e677d49fd3a0aca045135573c_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 171,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8327_JPG_jpg.rf.be2a70fef25dc7e5393f8de51669484b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8327_JPG_jpg.rf.be2a70fef25dc7e5393f8de51669484b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 97,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8203_JPG_jpg.rf.5c9b509afd12971c3ab91814258e7c74.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8203_JPG_jpg.rf.5c9b509afd12971c3ab91814258e7c74_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 31,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8245_JPG_jpg.rf.0c29e4cf976b97a7842f691ea7d1b17c.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8245_JPG_jpg.rf.0c29e4cf976b97a7842f691ea7d1b17c_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 12,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8223_JPG_jpg.rf.fc85d8f8388dc6ecf67a682d0432fa33.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8223_JPG_jpg.rf.fc85d8f8388dc6ecf67a682d0432fa33_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 35,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8202_JPG_jpg.rf.20f6efeba08eb2a93bb3d3bd6500f6a2.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8202_JPG_jpg.rf.20f6efeba08eb2a93bb3d3bd6500f6a2_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 119,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_9_resized_jpg.rf.69df8238010e46edb2cdb4ffc968565c.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_9_resized_jpg.rf.69df8238010e46edb2cdb4ffc968565c_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 42,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8205_JPG_jpg.rf.181ffa4c4a4e8404f672f7edf1f906c4.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8205_JPG_jpg.rf.181ffa4c4a4e8404f672f7edf1f906c4_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 191,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_111716-jpg_1500x2000_jpg.rf.dbe638be9ea44ce7fe87723cf5aa1609.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_111716-jpg_1500x2000_jpg.rf.dbe638be9ea44ce7fe87723cf5aa1609_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 90,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8213_JPG_jpg.rf.53c7add6d29f9bd414013da476eaff82.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8213_JPG_jpg.rf.53c7add6d29f9bd414013da476eaff82_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 137,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_24_resized_jpg.rf.9738f8bc2c66d3d09992de5ba93cd987.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_24_resized_jpg.rf.9738f8bc2c66d3d09992de5ba93cd987_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 51,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8208_JPG_jpg.rf.2ca56684028058da1b6d9669fd2e77cd.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8208_JPG_jpg.rf.2ca56684028058da1b6d9669fd2e77cd_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 128,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8210_JPG_jpg.rf.891209be5347f89d11feb80cb46e49a4.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8210_JPG_jpg.rf.891209be5347f89d11feb80cb46e49a4_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 163,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8216_JPG_jpg.rf.97dee58bbf3ab1525679ff1710f56f85.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8216_JPG_jpg.rf.97dee58bbf3ab1525679ff1710f56f85_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 41,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8210_JPG_jpg.rf.273bfebf436e0bb914744e18e805ce33.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8210_JPG_jpg.rf.273bfebf436e0bb914744e18e805ce33_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 118,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_15_resized_jpg.rf.7992d3a59bedbc084b6cf887f10f9b59.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_15_resized_jpg.rf.7992d3a59bedbc084b6cf887f10f9b59_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 113,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_18_resized_jpg.rf.7613ec066f6bb69157d611b0b82835f7.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_18_resized_jpg.rf.7613ec066f6bb69157d611b0b82835f7_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 26,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8237_JPG_jpg.rf.054c26527bf56f429e2a72f8694cbb74.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8237_JPG_jpg.rf.054c26527bf56f429e2a72f8694cbb74_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 162,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8222_JPG_jpg.rf.b10ef59ead4a0c6887ed382f0df1b80e.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8222_JPG_jpg.rf.b10ef59ead4a0c6887ed382f0df1b80e_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 100,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8228_JPG_jpg.rf.68b8111cb627bdf38b949bc5757da3dc.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8228_JPG_jpg.rf.68b8111cb627bdf38b949bc5757da3dc_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 111,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8234_JPG_jpg.rf.6d76f0fa7c79c11ca7997ef1ee62013d.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8234_JPG_jpg.rf.6d76f0fa7c79c11ca7997ef1ee62013d_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 2,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8202_JPG_jpg.rf.eb464a259fd963788b0ad8bda43daa2e.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8202_JPG_jpg.rf.eb464a259fd963788b0ad8bda43daa2e_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 77,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8218_JPG_jpg.rf.2be7919dc57fe600b8960835877e79ba.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8218_JPG_jpg.rf.2be7919dc57fe600b8960835877e79ba_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 46,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8238_JPG_jpg.rf.2be6fd468fe1f0deb807ee152deef91b.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8238_JPG_jpg.rf.2be6fd468fe1f0deb807ee152deef91b_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 189,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8217_JPG_jpg.rf.cd806519fed3ba68e6f374155c32c9ba.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8217_JPG_jpg.rf.cd806519fed3ba68e6f374155c32c9ba_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 193,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_25_resized_jpg.rf.bfb23775564d0712a2b3affc392178ab.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_25_resized_jpg.rf.bfb23775564d0712a2b3affc392178ab_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 85,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8204_JPG_jpg.rf.4e7f2a10c7afd6563ef1ceb3243ec664.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8204_JPG_jpg.rf.4e7f2a10c7afd6563ef1ceb3243ec664_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 135,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8209_JPG_jpg.rf.8fbaa3c995fac30818b643910225b928.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8209_JPG_jpg.rf.8fbaa3c995fac30818b643910225b928_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 36,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8275_JPG_jpg.rf.1e00409cc8d16a50cedc83d1ae4cee26.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8275_JPG_jpg.rf.1e00409cc8d16a50cedc83d1ae4cee26_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 192,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8218_JPG_jpg.rf.d5ae69ce0a137c58b4ce8d5236d50c30.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8218_JPG_jpg.rf.d5ae69ce0a137c58b4ce8d5236d50c30_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 61,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_19_resized_jpg.rf.3e21b07828f095d4f977f272e608af6e.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_19_resized_jpg.rf.3e21b07828f095d4f977f272e608af6e_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 22,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8216_JPG_jpg.rf.069e0b925a406c76fd6d1d4db2e2f7c5.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8216_JPG_jpg.rf.069e0b925a406c76fd6d1d4db2e2f7c5_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 132,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8222_JPG_jpg.rf.7a5dc47f064f9765edb3e069cc8392ea.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8222_JPG_jpg.rf.7a5dc47f064f9765edb3e069cc8392ea_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 101,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8229_JPG_jpg.rf.6424c15727bbda247b48ca1908fc98a5.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8229_JPG_jpg.rf.6424c15727bbda247b48ca1908fc98a5_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 33,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_27_resized_jpg.rf.1fe8172787c0d05ec95575f54723d52f.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_27_resized_jpg.rf.1fe8172787c0d05ec95575f54723d52f_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join",
+      "drywall-join"
+    ],
+    "num_annotations": 2
+  },
+  {
+    "image_id": 11,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8208_JPG_jpg.rf.f13a712c80cdad5a4d4b4dd630ae7474.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8208_JPG_jpg.rf.f13a712c80cdad5a4d4b4dd630ae7474_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 196,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_110124-jpg_1500x2000_jpg.rf.dd095080a12aa0a27128b9da2500b9e3.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_110124-jpg_1500x2000_jpg.rf.dd095080a12aa0a27128b9da2500b9e3_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 176,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8204_JPG_jpg.rf.bb153ecd5e3c28a15260ec354bc2570f.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8204_JPG_jpg.rf.bb153ecd5e3c28a15260ec354bc2570f_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 6,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_20220627_111718-jpg_1500x2000_jpg.rf.efebc8e2f88500025962ad846fbfbfd2.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_20220627_111718-jpg_1500x2000_jpg.rf.efebc8e2f88500025962ad846fbfbfd2_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 27,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8276_JPG_jpg.rf.066c38a43adce95cab85cd346580ef03.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8276_JPG_jpg.rf.066c38a43adce95cab85cd346580ef03_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 120,
+    "image_path": "../Drywall-Join-Detect/valid/IMG_8202_JPG_jpg.rf.7bb0d0caab5e3395f6d2c4c66ecc734e.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/IMG_8202_JPG_jpg.rf.7bb0d0caab5e3395f6d2c4c66ecc734e_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  },
+  {
+    "image_id": 4,
+    "image_path": "../Drywall-Join-Detect/valid/2000x1500_15_resized_jpg.rf.e81ec1bc2f1811998026f776a78b76f3.jpg",
+    "mask_path": "/home/inferno/Projects/Origin_10x/prompted-segmentation/data/processed/drywall_masks_valid/2000x1500_15_resized_jpg.rf.e81ec1bc2f1811998026f776a78b76f3_mask.png",
+    "original_size": [
+      640,
+      640
+    ],
+    "resized_size": [
+      640,
+      640
+    ],
+    "categories": [
+      "drywall-join"
+    ],
+    "num_annotations": 1
+  }
+]
