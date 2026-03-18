@@ -62,7 +62,7 @@ The 5:1 imbalance is handled by concatenating both datasets and shuffling during
 
 Drywall is easier (bigger, more uniform regions), cracks are harder (thin, irregular). The model handles both reasonably well with task-specific thresholds.
 
-See [REPORT.md](REPORT.md) for the full writeup and analysis.
+See [REPORT](Report-prompted-segmentation.pdf) for the full writeup and analysis.
 
 ## Technical Details
 
